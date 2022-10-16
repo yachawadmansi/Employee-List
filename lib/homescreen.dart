@@ -31,9 +31,6 @@ class homescreen extends StatelessWidget {
    bool checkgender(String gender) {
      if (gender == 'Male') {
        return true;
-       // }else if(gender == 'Female'){
-       //   return false ;
-       // }
      } else {
        return false;
      }
@@ -123,7 +120,7 @@ class homescreen extends StatelessWidget {
                               fontWeight: FontWeight.w400,
                               fontSize: 15
                             ),),
-                            trailing:checktime(thisEmp['jdate'])? Icon(Icons.bookmark_sharp , color: Colors.green,) : Icon(Icons.bookmark_outline ), //color: Colors.white, ),
+                            trailing:checktime(thisEmp['jdate'])? Icon(Icons.star, color: Colors.green,) : Icon(Icons.star_border ), //color: Colors.white, ),
                           ),
                           SizedBox(
                             height: 5.0,
