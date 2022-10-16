@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8618628322",
+    "project_id": "employe-liust",
+    "storage_bucket": "employe-liust.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8618628322:android:c11a17632c5d992a683abb",
+        "android_client_info": {
+          "package_name": "com.example.employeedetails"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8618628322-qc73j2mrs4jgjicfgt26pqt14dfefjku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsfg4cUqXftTSfYNACPhSznjTyqoz8iYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8618628322-qc73j2mrs4jgjicfgt26pqt14dfefjku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
